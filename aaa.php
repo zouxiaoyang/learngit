@@ -3,3 +3,5 @@
   foreach($arr_test as $value){
     echo $value,'<br>';
   }
+
+  echo "hello,world";
